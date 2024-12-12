@@ -1,6 +1,6 @@
 # Estrutura de Telas Simples em Java
 
-Este projeto fornece uma estrutura simples para criar interfaces gráficas em Java usando `javax.swing`. Ele permite acelerar o processo de criação de telas com componentes alinhados de forma empilhada (verticalmente).
+Este projeto fornece uma estrutura simples para criar interfaces gráficas em Java usando `javax.swing`. Ele permite acelerar o processo de criação de telas com componentes alinhados de forma empilhada (verticalmente),acelerando seu processo de criação pois já tem telas pronta que pode ser usada.
 
 ## Como Usar
 
