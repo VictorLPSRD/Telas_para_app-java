@@ -6,8 +6,7 @@ Este projeto fornece uma estrutura simples para criar interfaces gráficas em Ja
 
 ### 1. Configuração Inicial
 
-Certifique-se de ter o JDK instalado e um ambiente configurado para executar programas em Java. Você pode copiar o arquivo `Telas.java` para o seu projeto ou até mesmo as telas prontas
-Main, Registrar, EsqueciConta, menu.
+Certifique-se de ter o JDK instalado e um ambiente configurado para executar programas em Java. Você pode copiar os arquivos do projeto para o seu repositório local.
 
 ### 2. Criando uma Janela
 
@@ -70,6 +69,17 @@ public class Main {
     }
 }
 ```
+
+### Exemplos Avançados
+
+No repositório, você encontrará exemplos completos de telas, como:
+
+- Tela de Login
+- Tela de Registro
+- Tela de Recuperação de Conta
+- Menu Principal
+
+Esses exemplos mostram como integrar e estender a classe `Telas` para criar aplicações funcionais.
 
 ## Funcionalidades da Classe
 
